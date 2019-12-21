@@ -1,0 +1,44 @@
+Football: Spanish La Liga table
+Spanish La Liga table after Sunday’s early matches (played, won, drawn, lost, goals for, goals against, points):
+
+Real Madrid 8 5 3 0 16 8 18
+
+Granada 8 4 2 2 15 10 14
+
+Atletico Madrid 7 4 2 1 7 4 14
+
+Barcelona 7 4 1 2 16 10 13
+
+Real Sociedad 7 4 1 2 12 7 13
+
+Sevilla 7 4 1 2 10 7 13
+
+Athletic Bilbao 8 3 3 1 7 3 12
+
+Valencia 8 3 3 2 12 12 12
+
+Villarreal 8 3 2 3 19 13 11
+
+Levante 8 3 2 3 10 10 11
+
+Osasuna 8 2 5 1 7 7 11
+
+Eibar 8 2 3 3 10 10 9
+
+Valladolid 7 2 3 2 7 8 9
+
+Celta Vigo 8 2 3 3 5 9 9
+
+Real Betis 8 2 3 3 11 16 9
+
+Alaves 8 2 2 4 5 9 8
+
+Getafe 7 1 4 2 10 11 7
+
+Real Mallorca 8 1 2 5 4 14 5
+
+Espanyol 8 1 2 5 4 14 5
+
+Leganes 8 0 2 6 4 12 2
+
+(AFP)

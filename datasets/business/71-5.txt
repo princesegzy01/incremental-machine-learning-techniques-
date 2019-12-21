@@ -1,0 +1,46 @@
+Presidency submits 2020 budget proposal to National Assembly
+What shaped the past week?
+
+Global: Last week, global market activities were driven by political uncertainty and developments in Sino-American trade. On Monday, markets in Asia and Europe closed lower as investors watched for developments on the U.S.-China trade front, while U.S. markets traded flat as mixed economic cues did little to sway investor concerns over slowing domestic growth in the face of a prolonged U.S.-China trade war. On Tuesday, stocks in Asia and Europe traded mixed as weak economic data in Europe fueled fears of slowing growth and weighed on investor sentiment. U.S. markets also closed lower, following an announcement of the launching of an impeachment inquiry against U.S. President Donald Trump. By midweek, comments from British AG Geoffrey Cox further dampened sentiment in EU markets, while Wall Street and the Asian region closed higher due to renewed optimism over a trade deal between the US and China, following comments from the U.S. President. On Thursday, however, weak domestic demand data out of China – a consequence of the ongoing trade-war – drove Asian markets back into negative territory, while EU markets turned positive despite lingering fears about the worsening state of Britain’s Brexit plans. Meanwhile on Wall Street, losses in tech and consumer goods stocks drove markets lower. Ultimately, global markets closed the week mixed, as investors watched for developments on the international trade front.
+
+Domestic Economy: In the 2020 budget proposal put forth by the Federal Government to the National Assembly, the government has earmarked N2.67 trillion for the wages in ministries, departments and other agencies of government. If approved by the national assembly, the wage bill would have increased by 27% over three years. The Minister of Finance, Mrs. Zainab Ahmed, stated that the rise in wages is due to the increase in personnel cost as a result of the creation of new ministries and additional ministers. Slowing growth in the nation, coupled with declining oil revenue puts Nigeria in a precarious position. The country remains largely dependent on revenue from crude sales to meet its funding needs and raising its wage bill as a result of expanding the size of its government will constrain its ability to effectively allocate resources. Government revenue from crude sales is projected to decline as a result of global tensions weigh on oil demand. Furthermore, with Nigeria still lacking the adequate infrastructure needed to drive economic growth, the increase in wage bill is likely to increase the pressure on the federal government, which could have consequences for the fragile economy at large.
+
+Equities: This week, the ASI closed in the red as sell-offs on large cap stocks pushed the index lower. The market shed 15bps in the first session, as sell-offs in ACCESS, FBNH and UACN weighed on the market, as market breadth was negative for the day. The market did not fare much better on Tuesday as losses in ZENITHBANK and MTNN dragged the market into negative territory, losing 108bps despite market activity improving from the previous day. On Wednesday, the market closed in the red for a third consecutive session, as losses in large-cap stocks DANGCEM, ZENITHBANK and MTNN dampened investor sentiment in the equity space. However, the market’s fortunes were reversed on Thursday, posting a 109bps gain as gains in large-cap stocks NESTLE, SEPLAT and ACCESS helped the market close in the green. Sector-wise the Oil & Gas (+11.63%) and Consumer Goods sectors (+503bps) were the best performers for the week, while the Banking (-164bps) and Industrial Goods sector were the worst performers. Market activity for the week saw a decrease in value traded of 10.95% to N16.69 billion.
+
+Fixed Income: On Wednesday, the DMO held its monthly bond auction, where they offered N150 billion and sold N100 billion across the 5-Year, 10-Year, and 30-Year maturities at stop rates of 14.39%, 14.39% and 14.64% respectively; higher than previous auction levels. On Thursday, the CBN conducted an OMO auction, offering N250 billion and selling N302.42 billion across the 84DTM, 184DTM and 364 DTM papers at stop rates of 11.59%, 11.79% and 13.48% respectively (Effective Yield: 11.93%, 12.49%, and 15.57%). Meanwhile, in the secondary market, trading in the secondary T-bills market was buy-side driven as demand was observed at the mid-end of the spectrum, while trading in the bond space remained quiet with limited overall activity. Overall, activity last week was fairly quiet, with investors and traders taking cues from the primary auctions which held during the week. Overall, T-bills yields declined 37bps w/w, whilst average yield on benchmark bonds declined 10bps w/w. The most notable yield movements in either space where the 181DTM bill, which shed 129bps w/w to settle at 12.65% and the 15.54% FGN Feb 2020 bond, which declined 183bps w/w to settle at 12.68%.
+
+Currency: The Naira depreciated N0.39 w/w at the I&E FX Window to settle at N362.00 and remained unchanged w/w to settle at N358.00 against the dollar in the parallel market.
+
+What will shape markets in the coming week?
+
+Equity market: The market declined marginally last week despite upward movement in some large cap stocks. With some heavyweight recording significant capital appreciation w/w, we expect profit-taking action next week on some counters that gained this week.
+
+Fixed Income market: With system liquidity to a robust level, we expect positive activity in the T-bills space at the start of the week. In the bond market, we expect the mixed sentiment to persist as investors continue to monitor macroeconomic developments in the country.
+
+Currency: We expect the naira to remain largely stable across the various windows of the currency space as the CBN maintains interventions in the FX market.
+
+Focus for the week
+
+2020 Budget Proposal
+
+A more realistic budget, based on realistic expectations
+
+The Federal Ministry of Budget and Planning has submitted the Medium-Term Expenditure Framework (MTEF) and Fiscal Strategy Paper (FSP) 2020-2023 to the National Assembly. The framework projects a 2020 revenue and expenditure of N7.17 trillion and N9.12 trillion respectively, and a projected fiscal deficit of N2.2 trillion. These figures appear to be more realistic than the initial proposal released in the second week of September, and we note that when compared to the previous budget, the Federal Government has taken a more realistic approach to setting targets, at least with regards to oil price and production expectations.
+
+We still have a lot left to be desired
+
+Thus far, Nigeria has seen a 42% shortfall in revenue as of H2’19 which has been attributed to the underperformance of both the oil and Non-oil sectors of the economy. Especially, oil production for the year has averaged 1.87 mb/d in the last eight months and oil prices have averaged $65.05/bbl for the same period. Although the price of oil has been slightly higher than forecast, the depressant for the government’s oil revenues came from the shortfall in output, which was forecasted at 2.3 million bpd. With this reality, it can be seen why the bill has seen slower implementation, at least when compared with the 2018 budget. Largely, we expect to see increased capex expenditure before the end of FY’19 as there has been no capex allocation under the 2019 budget for the first half of the year.
+
+Clear oil revenue expectations boost credibility
+
+The 2020 budget, as well as the MTEF have set more realistic expectations for oil revenues; oil prices, which have moderated 16.2% y/y to $61.87/bbl, are projected to trade at $55/bbl in 2020 compared to an estimate of $60 in 2019; this is coupled with a crude production expectation of 2.1 mb/d and a stable exchange rate of N305/$. The assumptions for oil appear reasonable enough to support the government’s oil revenue projections, as output has grown in the Oil & Gas sector in the past year.
+
+Non-oil revenue, of which the increased VAT is expected to contribute a significant share. However, in the past five years at least, the FIRS has fallen short of its contribution quota by a wide margin, achieving only 67% of their revenue collection targets over this period. Optimistically, in the past year, there has been a shortfall of only 6%, which raises hopes that the upsurge in VAT, as well as more stringent collection drives may see the FIRS achieve higher revenues in 2020.
+
+Whilst reasonable care has been taken in preparing this document to ensure the accuracy of facts stated herein and that the ratings, forecasts, estimates and opinions also contained herein are objective, reasonable and fair, no responsibility or liability is accepted either by Vetiva Capital Management Limited or any of its employees for any error of fact or opinion expressed herein.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

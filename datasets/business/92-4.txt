@@ -1,0 +1,42 @@
+Bolt develops ID confirmation portal for drivers
+Maureen Ihua-Maduenyi
+
+Online transportation platform, Bolt, has developed a new identity verification portal for its drivers.
+
+The new platform, according to the firm, was created in partnership with a data aggregation and acquisition company, YouVerify.
+
+Bolt’s Marketing Manager, Opemipo Kehinde, said since inception, the firm had been working on ways to improve safety, adding that the new initiative was one of them.
+
+He explained that as part of the partnership, a fully customised portal was developed for Bolt where drivers could request and check their verification as part of the driver onboard process.
+
+Kehinde said the driver verification portal was an addition to Bolt’s suite of safety features including an SOS button in the driver app, a 24-hour high-priority team, and the ability to share the details and route of an ongoing ride.
+
+Bolt’s City Manager for Lagos, Femi Akin-Laguda, said the safety of customers, both drivers and riders, would continue to be a cornerstone of the firm’s business strategy of building trust.
+
+He said that over the last three years, the firm had been working to continue improving the level of detail and robustness of its verification process in validating the identity of all individuals wishing to drive on Bolt.
+
+“We are very excited to announce that we have now partnered YouVerify, a leading identity aggregation technology company, to build an industry-leading self-serve driver verification portal which is the first of its kind to be rolled out on our market,” he said.
+
+According to him, the portal was developed in partnership with the firm’s supply operations team ensuring that it would effectively meet needs and not be excessively intrusive for driver-partners.
+
+Akin-Laguda said the system would be driven by YouVerify’s proprietary identity verification technology which would provide the tools to validate various documentation and data and provide key requirements for an ideal verification solution that would boost both service quality and customer safety.
+
+He said the identity verification portal would allow Bolt to conduct checks that were not available before, and be more comprehensive for the existing checks.
+
+In the new system, the home address verification would provide higher levels of identity assurance than with previous model and the BVN check in particular would help completely remove fraud and impersonation attempts, he said.
+
+“The verification results are received in real-time, which makes the turnaround time much faster. All the driver has to do is initiate the verification request, provide all the information required and the portal verifies the driver’s home address, the driver’s documents and face, and verifies the BVN against the database of the Nigeria Inter-Bank Settlement System to confirm their identity,” he added.
+
+He said the system was only available in Nigeria but would be replicated in other markets around the world.
+
+The Chief Executive Officer, YouVerify, Gbenga Odegbami, said the firm’s partnership with Bolt to deploy the highest security and privacy standards would ensure that the verifications were done reliably and securely without compromising the privacy of the drivers.
+
+He said the firm’s advanced background verification had helped institutions build trust between companies and individuals in the past.
+
+The verification, according to him, will be rolled out in stages beginning with Lagos where it has gone live, and followed by Abuja and Port Harcourt and will be available across Nigeria in the coming months.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

@@ -1,91 +1,128 @@
 from sklearn.datasets import fetch_20newsgroups
 from sklearn.feature_selection import mutual_info_classif
 from sklearn.feature_selection import SelectPercentile
-from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import matplotlib.pyplot as plt
+from sklearn.feature_selection import SelectKBest 
+from sklearn.feature_selection import chi2 
+from sklearn.decomposition import TruncatedSVD, PCA
+import sys
+import os
+from numpy import array
+import time
 
-categories = ['talk.religion.misc','comp.graphics', 'sci.space']
-newsgroups_train = fetch_20newsgroups(subset='all',categories=categories)
+import nltk                                         #Natural language processing tool-kit
+
+from nltk.corpus import stopwords                   #Stopwords corpus
+from nltk.stem import PorterStemmer 
+import re, string
+from nltk.tokenize import word_tokenize 
+stemmer = PorterStemmer() 
+
+def preprocessing(document):
+    
+    # convert to lower case
+    document = document.lower()
+
+    # remove numbers
+    document = re.sub(r'\d+', '', document) 
+    
+    # remove punctuation
+    translator = str.maketrans('', '', string.punctuation) 
+    document =  document.translate(translator) 
+
+    # remove whitespace
+    document = " ".join(document.split())
+
+    word_tokens = word_tokenize(document) 
+
+    # remove stop words
+    stop_words = set(stopwords.words("english")) 
+    word_tokens = word_tokenize(document) 
+    filtered_text = [word for word in word_tokens if word not in stop_words] 
+
+    # stemming
+    stems = [stemmer.stem(word) for word in filtered_text] 
+
+    # stem document
+    # print(filtered_text)
+
+    document = ' '.join(stems)
+    return document
 
 
-X, Y = newsgroups_train.data, newsgroups_train.target
+categories = os.listdir("datasets/")
+
+news_array = []
+news_category = []
 
 
-# print(len(X))
+for category in categories:
+    contents = os.listdir("datasets/"+category)
+    for content in contents:
 
-cv = CountVectorizer(max_df=0.95, min_df=2,max_features=10000,stop_words='english')
-X_vec = cv.fit_transform(X)
-
-
-
-
-# print(X_vec.shape)
-
-# print(len(X_vec.toarray()))
-
-# reduc = mutual_info_classif(X_vec, Y, discrete_features=True)
-# X_new = SelectPercentile(mutual_info_classif, percentile=10).fit_transform(X_vec, Y)
-
-X_new = X_vec
+        file_name = "datasets/"+category+"/"+content
+        news_content = open(file_name, "r")
+        news_content = preprocessing(news_content.read())
+        news_array.append(news_content)
+        news_category.append(category)
 
 
-# print(X_new.toarray()[0])
-# res = dict(zip(cv.get_feature_names(),mutual_info_classif(X_vec, Y, discrete_features=True)))
-# print(res)
 
-# plt.plot(*zip(*sorted(res.items())))
-# plt.show()
+print(" >>>> Done preprocessing >> ")
 
-# D = res
-# plt.bar(range(len(D)), D.values(), align='center')
-# plt.xticks(range(len(D)), list(D.keys()))
+Y = news_category
 
-# # plt.show()
-# plt.savefig('informationGainChart.png')
-# print("done ->")
-# import sys
-# sys.exit()
+
+vectorizer = TfidfVectorizer(max_features=20000)
+X_vec = vectorizer.fit_transform(news_array)
+
+
+X_vec = X_vec.toarray()
+
+print(X_vec.shape)
+
+
+X_vec = SelectKBest(mutual_info_classif, k = 15000).fit_transform(X_vec, Y)
+
+# Two features with highest chi-squared statistics are selected 
+X_vec = SelectKBest(chi2, k = 10000).fit_transform(X_vec, Y)
+
+
+pca = PCA(n_components=5000)
+X_vec = pca.fit_transform(X_vec) 
+
 
 from sklearn.linear_model import SGDClassifier
 from sklearn.model_selection import train_test_split
 
-X_train, X_test, y_train, y_test = train_test_split(X_new, Y, test_size=0.33, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X_vec, Y, test_size=0.33, random_state=42)
 
-clf = SGDClassifier(max_iter=1000, tol=1e-3)
-
-
-# import time
-
-# start_time = time.time()
+clf = SGDClassifier(max_iter=10000, tol=1e-3)
 
 
+start_time = time.time()
 clf.fit(X_train, y_train)
+elapsed_time = time.time() - start_time
+# print(" one shot training : ",elapsed_time)
 
-# elapsed_time = time.time() - start_time
-# print("time 1 : ", elapsed_time)
+
 y_pred = clf.predict(X_test)
-# print(" <<>> ", X_train.shape)
 from sklearn.metrics import accuracy_score
 acc = accuracy_score(y_pred,y_test)
 
-print(" >>>> One shot : ", acc)
 
-# start_time2 = time.time()
+print(" >>>> One shot : ", acc, " time >> ", elapsed_time)
+
 # clf.partial_fit(X_train, y_train)
-# elapsed_time = time.time() - start_time2
-# print(" time 2 : ",elapsed_time)
 
 from sklearn.naive_bayes import MultinomialNB, GaussianNB, BernoulliNB
-
 from sklearn.linear_model import SGDClassifier
 
-cla = SGDClassifier()
-mnb = MultinomialNB()
-# mnb = MultinomialNB(class_prior=[.22,.78])
+cla = SGDClassifier(max_iter=10000, tol=1e-3)
 
-performance = []
 
-data_batch = 50
+data_batch = 1000
 start = 0
 
 from sklearn.metrics import confusion_matrix,accuracy_score
@@ -98,19 +135,22 @@ y_plot = []
 x_plot_mnb = []
 y_plot_mnb = []
 
+time_plot = []
 
-for _ in range(0, X_train.shape[0] , data_batch):
+# print(X_train)
+# print(np.unique(y_train))
+for _ in range(0, len(X_train), data_batch):
 
     x_batch = X_train[start:start+data_batch]
     y_batch = y_train[start:start+data_batch]
     start = start + data_batch
     
-    # print(x_batch.toarray()[0])
-    # print(y_batch)
-    # print(x_batch, " -- ", y_batch)
-    cla.partial_fit(x_batch, y_batch, classes=[0, 1, 2])
-    # conf = confusion_matrix(y_test, cla.predict(X_test))
-    # performance.append(np.diag(conf) / np.sum(conf, axis=1))
+    start_time = time.time()
+    cla.partial_fit(x_batch, y_batch, classes=['business','education','entertainment','family','politics','sex-relationship','sports'])
+    elapsed_time = time.time() - start_time
+
+#     time_plot.append(elapsed_time)
+
 
     y_pred = cla.predict(X_test)
     accuracy = accuracy_score(y_pred, y_test)  
@@ -118,28 +158,4 @@ for _ in range(0, X_train.shape[0] , data_batch):
     x_plot.append(start)
     y_plot.append(accuracy) 
 
-
-    mnb.partial_fit(x_batch,y_batch,classes=[0, 1, 2])
-    y_pred_mnb = mnb.predict(X_test)
-    accuracy2 = accuracy_score(y_pred_mnb, y_test)
-
-    print(start, " Accuracy >> ", accuracy,  " -:- ",accuracy2) 
-
-    # x_plot_mnb.append(start)
-    y_plot_mnb.append(accuracy2) 
-
-
-
-
-print(x_plot)
-# plt.plot(performance)
-# plt.legend(['class 1', 'class 2', 'class 3'])
-
-plt.plot(x_plot, y_plot, label='SGD')
-plt.plot(x_plot, y_plot_mnb, label='MNB')
-# plt.axis([0, 2000, 0, 1.0])
-plt.legend()
-plt.xlabel('training batches')
-plt.ylabel('accuracy')
-
-plt.show()
+    print(start, " Accuracy >> ", accuracy, " time >> ", elapsed_time) 

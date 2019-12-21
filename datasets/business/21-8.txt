@@ -1,0 +1,50 @@
+Cyberthreats: Protect your systems, networks, FG tells MDAs
+Ihuoma Chiedozie, Abuja
+
+The Federal Government has directed its ministries, departments and agencies to protect their information systems and networks against cyberattacks.
+
+The Director-General of the National Information Technology Development Agency, Mallam Kashifu Inuwa, gave this directive at an information assurance workshop for MDAs in Abuja on Wednesday.
+
+He said the Secretary to the Government of the Federation had issued a circular to the MDAs on the implementation of the National Information Systems and Network Security Standards.
+
+The National Information Systems and Network Security Standards is one of NITDA’s regulations that seek to ensure the security of data and technology systems in line with global best practices.
+
+Inuwa urged the MDAs that were yet to implement the regulation to do so in order to protect government’s information.
+
+“We all have a shared responsibility to build resilience, trust and confidence into our systems.
+
+“We all have a shared responsibility to ensure that we keep government information, services, networks and infrastructure secure and this standard is a very bold step towards achieving that goal.
+
+“We have to work together if we are to increase our resilience against malicious cyber risks and threats,” Inuwa said.
+
+The workshop, which was organised by the Office of the SGF and NITDA, was aimed at bringing all government organisations together to combat cyber attacks, which was identified as a threat to the global economy, as well as national and personal security.
+
+Noting that government was taking its activities online for greater efficiency, Inuwa observed that the development also came with risks.
+
+Stressing the need for secure information systems and networks in the MDAs, he said, “Data is a critical asset to the digital economy as such a critical target for cyber criminals.
+
+“The increasing use of digital technologies is continually exposing sensitive information and critical systems to risks and threats in the cyberspace.
+
+“Cyber criminals not only try to gain control over our infrastructure, they also try to steal personal information, official data and mislead citizens with fake news.
+
+“The boom in digital economy is delicately balanced with equivalent threats that could bring organisations and nations to their knees with colossal damage arising from financial and reputational losses to cyber criminals.
+
+“Hence government and industries need to enhance their cyber security in the wake of these evolving threats to online activities.”
+
+A cybersecurity expert, Dr Kenneth Okereafor, said the workshop was in line with a plan to improve the security of country’s cyberspace.
+
+“The reason is because in other climes, it is very easy to detect when attacks are coming in.
+
+“We are looking at a situation where Nigeria as a country has a framework in place to detect cyber security breaches. Beyond that to also respond proactively,” he said.
+
+Okereafor said there was a need for a single unit that would coordinate cyber security in government establishments.
+
+Head of Cyber Security Unit in NITDA, Dr. Wariowei Dimie, said the agency intended to ensure that any data generated and made available in public service was kept safe from hackers.
+
+He added that NITDA would make sure that the regulations on cyber security were adhered to by the MDAs, as stated in the circular circulated by the SGF.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

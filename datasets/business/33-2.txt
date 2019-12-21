@@ -1,0 +1,50 @@
+Telecom firms fault bank CEOs over USSD charges
+Ife Ogunfuwa
+
+Telecommunication companies on Tuesday said banks were the biggest beneficiaries of the USSD charges.
+
+They also accused bank executives of making unfounded allegations against them regarding the plans to start charging customers N4 for 20 seconds of the Unstructured Supplementary Service Data fee.
+
+The telcos, in a letter to the Body of Banks’ Chief Executive Officers on Tuesday, disagreed with the position of the banks that the charges would lead to 450 per cent rise in tariff.
+
+The operators under the aegis of Association of Licensed Telecommunication Operators of Nigeria, noted that the banks were the biggest beneficiaries of the USSD charges.
+
+The rate ranges from N10 to N50, as N4.5 per 20 seconds amounts to a minimum of 0.08 per cent and a maximum of 40 per cent of the charges to customers.
+
+The letter signed by the Chairman of ALTON, Gbenga Adebayo, claimed that rather than using the USSD platform to bank the unbanked, the banks were serving the banked population, optimising their operations and generating huge revenue with the USSD channel.
+
+The letter read in part, “The above underscores the fact that the biggest beneficiaries in the USSD value chain are the banks and that the allegation of destroying the financial inclusion strides by our members are unfounded.”
+
+“It will be impossible to connect Automated Teller Machines and Point of Sale terminals across the length and breadth of Nigeria without our members’ dedication and support. In addition, the cashless policy drive and the instant payment solution of the financial sector would not have been possible without our members’ support.”
+
+It was gathered that the bank CEOs, in letter to ALTON on September 16 had asked operators to commence end-user billing as such aligned with the standard practice for USSD billing.
+
+The letter signed by 13 banks said, “Customers using non-bank services already pay for the USSD sessions.”
+
+The bank executives had denied having any knowledge of the direct USSD access charge to customers on Monday.
+
+Providing further clarifications on the matter, Adebayo in a phone conversation said the banks stopped paying the cost for providing the USSD services two months ago and had directed telcos to devise ways to recover their money from subscribers.
+
+He said the banks stated that they would no longer pay for the USSD service delivered to their customers, following the issuance of the USSD pricing determination by the Nigerian Communications Commission.
+
+It was gathered that some telcos had initiated the end-user billing for the USSD transactions due to the suspension of corporate billing by the banks.
+
+ALTON described the end-user billing, which the banks specifically demanded that its members should implement, as a billing methodology where the banks customer were directly charged the USSD access fees, irrespective of the service charges that the bank might have applied to the customers’ bank account.
+
+He said, “Why will the banks charge customers and not share the cost with the operators and you don’t expect the operators to charge customers? Banks continue to take the money without giving anything to the operators.”
+
+READ ALSO: Corrupt Nigerians against NDDC probe, says Akpabio
+
+ALTON chairman said the end-user billing as advised by the bank CEOs would amount to double billing to bank customers.
+
+“Given that the USSD channel has become an established and most preferred channel for the banks especially for the banked population, we state that asking the customer to pay for the USSD is akin to requesting a customer to pay a bank’s landlord access fees prior to gaining access to banking premises,” Adebayo added.
+
+Meanwhile, the NCC in a public notice on Tuesday, ordered an immediate suspension of end-user billing for financial transactions though the USSD channel by all telecom operators.
+
+The Director of Public Affairs at NCC, Dr Henry Nkemadu, said consumers already paid service charge to banks for financial transactions carried out through the USSD channels, and should include the cost of use of operators’ critical network resources.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

@@ -1,0 +1,24 @@
+‘Universities should address demand for blockchain skills’
+Calls are mounting for African universities to keep pace with the world’s top 50 higher education institutions in offering more courses to harness the power of blockchain-based innovation, which could also support university administration.
+
+In a recent report, Babu Paul, director of the Institute for Intelligent Systems at the University of Johannesburg in South Africa, suggested that higher education providers on the continent train more technology and science students in blockchain technology, as this was part of the fourth industrial revolution.
+
+The African Blockchain Report 2018, a publication of the Central and Southern African internet provider Liquid Telecom, described blockchain as a distributed ledger technology that allowed digital information to be exchanged among parties but not altered or copied.
+
+The Liquid Telecom report listed African companies that had already embraced blockchain technology and highlighted potential use cases and applications, as well as examined challenges for its adoption throughout the continent. It said blockchain presented an important platform for digital empowerment in Africa and could transform the way businesses shared information, tracked assets and delivered services.
+
+“Pockets of blockchain innovation are springing up in innovation hubs across Africa, as the public and private sector seek effective new systems of record with trust embedded,” the report noted.
+
+Little adoption of courses in Africa
+
+However, despite a recent report by cryptocurrency exchange Coinbase and data startupQriously, ‘The Rise of Crypto in Higher Education’ which found that “42 per cent of the world’s top 50 universities offered at least one blockchain or crypto course,” John Karanja, founder of BitHub.Africa, told University World News by email that there was “little to no adoption” of blockchain courses by African higher education institutions.
+
+Paul advised universities to keep pace, despite the challenges, and provide “the necessary resources and knowledge for students to be able to thrive in the space.” He said universities were best suited to training entrepreneurs and developers as they had the expertise to teach technologies that were becoming more multidisciplinary and multisectorial.
+
+African blockchain education courses on offer included those at the African Blockchain Initiative, the Africa Blockchain University and the Blockchain Academy. The Rwanda-based Carnegie Mellon University Africa also offered a university course on blockchain technologies, according to one news story.
+
+A 2018 report on blockchain, “EduCTX: A Blockchain-Based Higher Education Credit Platform”, noted the development of a prototype for a global blockchain-based higher education credit platform, EduCTX, which could become a globally trusted higher education credit and grading system.
+
+The Liquid Telecom report said that Kenya, Nigeria, Uganda and South Africa were leading the continent in blockchain experimentation, with the biggest uptake in the financial sector. Trials were also underway to apply the technology to other sectors, including health, social development, retail and agriculture.
+
+–universityworldnews.com

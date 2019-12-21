@@ -1,0 +1,60 @@
+Automated email marketing messages you need
+Email marketing is one of the most effective marketing tactics available to businesses today, but the power of email marketing grows exponentially when you automatically send targeted messages based on specific customer behaviours rather than doing it manually.
+
+The reality is no small business owner has time to write individual messages and send them to people one-by-one at just the right times. Even if you have the budget to hire a staff or agency to help you, there aren’t enough hours in the day to manually leverage every email marketing opportunity available to you.
+
+That is where automation changes the game.
+
+Here are five email marketing messages that you can set up to go out to customers and subscribers automatically based on behavioural triggers, which are practically guaranteed to increase your sales.
+
+Why? Because these automated messages can be built to convert.
+
+Customer support follow-up
+
+Do you follow-up with customers and prospects after they communicate with your customer support team? Whether someone contacts your business by phone, email, or online chat, you should have a follow-up message ready to go out immediately after the communication is documented in your customer support software.
+
+You can automate the entire process if you use a customer support tool that integrates with your email marketing tool. Just write your follow-up message and set it to be sent automatically when a contact in your email marketing list completes a communication with a customer service representative.
+
+This message could simply tell the customer or prospect how to get additional help if they need it, or it could include a survey to track the quality of their experience and overall satisfaction. You could even include a discount or other special offer which they can use on a future purchase in order to convert a customer service issue into a sale.
+
+Sales trigger
+
+When someone makes a purchase from you, your email marketing software should be set up to automatically send a follow up message. Not only should this message thank the person for their purchase, but it should also offer a cross-sell or upsell item. You can even include a discount to boost conversions.
+
+To do this, you first have to determine which products or services to cross-sell or upsell for every product or service offered on your website. Your automated message triggered by a purchase could say, “Since you loved [insert the item purchased here}, we thought you’d like [insert a related product here] too!” Include some details about why the customer would like the suggested product or service and a link where they can purchase it immediately. If you’d like, you can also include a discount or special offer in your message.
+
+Keep in mind, automated messages based on sales behaviours don’t have to be limited to completed purchases. They can also be sent when someone moves to the next stage of your sales pipeline.
+
+This is particularly important for businesses that sell products or services with long sales cycles. The goal is to automatically send email messages that help push people through your sales funnel. Therefore, consider sending messages when a prospect makes first contact with you, completes a sales call, completes a demo, nears the end of a free trial period, and so on.
+
+Form submission
+
+Every time someone submits a form on your website – whether it’s your contact form, a subscription form, a form to download a free resource, or any other type of form – you should have an email marketing message queued to go out immediately after the behaviour is recorded.
+
+For this to work, you need to make sure you’re using a form tool that integrates with your email marketing software, so the entire process can be automated and you can access reports to see which forms are working and which should be improved or replaced.
+
+Abandoned cart
+
+Abandoned cart messages are a critical part of your email marketing strategy. When someone takes the time to find a product they like on your website, puts that item in their online shopping cart, but leaves your site without completing their purchase, it’s highly likely that an obstacle got in their way which prevented them from completing the transaction.
+
+You want to find out what that obstacle was and remove it for two reasons. First, you want to save the sale, and second, you don’t want other people to abandon their carts for the same reasons.
+
+Therefore, when someone abandons their shopping cart on your website, your email marketing tool should be set up to automatically send a message asking them what went wrong and reminding them to return to complete their transaction. You can even include a discount in the message to encourage them to complete their purchase.
+
+Of course, you need to have the right tracking configured in your email marketing tool and on your website so an abandoned cart is set up as a behavioral trigger that kicks off this very important message.
+
+Thank You
+
+Thank you messages can be sent to your customers based on a variety of behavioral triggers such as making a purchase, attending a webinar, writing a review, and so on. The key is to be sure your thank you messages sound authentic and make the recipients feel valued.
+
+Saying thank you shows consumers that your brand is human and helps deepen your brand’s relationship with them. You’re also acknowledging consumers and helping them develop trust in your brand.
+
+Keep it simple and sincere, and the perception of your brand – and the likelihood people will buy from you again and tell other people about your brand – improves significantly.
+
+Key takeaways about email marketing automation
+
+Automation works because it saves you a lot of time. There is no doubt that when you can automate tasks, your productivity and efficiency will improve and your costs will decrease.
+
+However, you need to invest some time and effort up front in writing the messages, setting them up in your email marketing software, and integrating your email marketing tool with the other tools you use to track customer behaviours.
+
+It’s well worth the time though, because each of these automated messages will give you a measurable improvement on your overall ROI.

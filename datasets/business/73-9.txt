@@ -1,0 +1,52 @@
+We’re targeting 60 million unbanked Nigerians – Usoro
+General Manager of a subsidiary of MTN, Y’ello Digital Financial Services, Mr Usoro Usoro, speaks with IFE OGUNFUWA on how the firm is providing access to financial services for the Nigeria’s unbanked population
+
+What is the MoMo agent service all about?
+
+MoMo agent service is a service offered by Y’ello Digital Financial Services, a subsidiary of MTN. MoMo agent service is meant to roll out and manage an agent network that would give people access to financial services. There are two major reasons why people do not have access to financial services. One is the distance to financial services infrastructure, particularly those that live in rural areas. They have to travel long distances to be able to access financial service infrastructure. What we are doing is bringing a financial service agent network to the last mile – the rural area – by ensuring that those people do not have to travel long distances to access financial service. Hence, we solve the problem of access or reach.
+
+The second reason is the problem of identity through KYC (Know Your Customer). We are able to solve the problem by virtue of the basic SIM registration that most customers have done with telco. That is what MoMo agent really does: extend financial services through the roll-out and management of our agent network across the country.
+
+What are the specific financial services MoMo agents facilitate?
+
+It would be a bouquet of services. Our flagship service today would be a basic transfer service. Why is that important? When you look at unbanked customers, they don’t have a bank account today; so we are not talking about bank deposits for that particular category of customers since they don’t have any bank account. To be able to carry out a basic bank transfer, all you need is to walk up to an agent, hand money to that agent and the agent is able to transfer money and your beneficiary can pick it up wherever an agent exists. It is a basic transfer service.
+
+In addition, we are also offering basic bill payments, airtime purchase and data services at the agent locations, and of course, carry out basic bank depository and withdrawal services. The bank depository and withdrawal services are really targeting the banked customer, but our primary focus is the unbanked. For the unbanked customer, that basic transfer service that allows you to send and receive money without the need for a bank account is what we are offering.
+
+Why should Nigerians consider using your service instead of transferring money through other platforms?
+
+If you are sending money to somebody who is in a rural or sub-urban area where the problem of reach exists, the more convenient service would be a MoMo agent service. Let me put it this way: there are three cost factors when it comes to transferring money. One is the cost of sending money from one account to another. That is for two people that are banked. The second one is if you send N10,000 to someone else that person needs to access the sum. In a rural area, such person needs to pay for transport to get to the banking infrastructure. Such transport may cost him about N1,000. When he gets to that location, he may also be required to pay to withdraw, depending on whether it is a bank ATM or not. With the MoMo agent service, you cut off all of that since you have an agent right there in your neighbourhood. It saves stress and cost of transportation by simply accessing the MoMo agent service. That is why you should send through the MoMo agent service.
+
+How do you intend to achieve a high penetration level of Momo agents in every neighbourhood to cut out other alternative platforms?
+
+What we expect in Nigeria is an estimate of 500,000 agents, which is why we need to have a ubiquitous agent network that would be available close to the neighbourhood. In the first one year, we intend to bridge that gap where we can say our target is to ensure that there is an agent within 30 minutes radius of any customer. By year two, we expect to bridge the gap where we have 15 to 20 minutes radius. As we mature into year three to four, we should be able to have an agent network about five minutes of every mobile customer. We are leveraging the existing agent infrastructure that MTN already has. MTN already has about half a million agents scattered across the country. A lot of them would be converted and on-boarded as a MoMo agent with the same ubiquitous nature of our airtime distribution is what you should expect to see.
+
+What is the cost implication of using the MoMo agent?
+
+It does cost you little or nothing. As I mentioned earlier, there are three variables to consider when it comes to cost of transfer. The first is the account to account transfer, the cost of sending money to somebody. The other is the cost of translating that transfer into cash for the customer in the rural area. There is potentially a cash-out cost, a transport cost, depending on the customer that you are referring to. And for an average customer, and if you come from a village like some of us, and you send money to family and friends in the village, it would cost them 10 to 15 per cent of the amount sent to them to access that cash. If you look at the cost of sending money from one account to another, it is incomparable. When it comes to actual pricing, what we have done is to have an introductory price in the market which cuts out the huge cost and the stress associated with transferring to the last mile.
+
+Pricing is a fluid subject because if you have a price in the market today, it could change in a couple of months or a year.
+
+What are the minimum and maximum amounts that could be transferred through a MoMo agent?
+
+As low as N500 and a maximum of N50,000 on a daily basis.
+
+When are these services going to be available to your potential customers?
+
+They are available as we speak. What we are doing is scaling up the agent network so that it is made available to as many people as possible and as many neighbourhoods as possible. Next week, we are starting our mini-launches in about five cities and states – Ibadan, Lagos, Owerri and Kano. The service is available nationally and once we are able to recruit a MoMo agent, we are able to send and receive money from MoMo agents today. You should also be able to carry out basic transfer services.
+
+What is the relationship between your service and the MTN network?
+
+First, MTN is the parent company. Y’ello Digital Financial Services that offers the MoMo agent service is a subsidiary of MTN. We are also leveraging the assets that MTN has. The key asset that MTN has is the existing network of over 500,000 airtime agents today. We also have additional 40,000 people doing SIM registration. Thus, there is an ecosystem that already exists. Many of those people will be our initial targets for MoMo agent service.
+
+If one is not on the MTN network, is it possible for one to benefit from this service?
+
+Eventually, Yes. Since we are carrying out a bill payment service, you don’t have to be an MTN customer. You can walk up to any of our agents, for instance , to renew your cable TV subscription. All you need to do is present your cash at our agent location. For the transfer service, in the initial phase, it is exclusive to the MTN customers because both sender and receiver must be identified.
+
+Today, MTN can only positively identify customers on its network. There are conversations that we have with other network providers that may allow us to send to other networks. At the initial phase, anyone can access our bill payment services and our transfer service would be limited to MTN customers. For depository and withdrawal services, that is for customers of the banks, regardless of the network.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

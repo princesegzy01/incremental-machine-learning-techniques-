@@ -1,0 +1,86 @@
+We struggle with raising capital, providing power — Abu
+In this interview with IFE OGUNFUWA, the Chief Executive Officer, Pan African Towers, Wole Abu, talks about how telecom infrastructure companies navigate the challenges in Nigeria’s business environment among other issues
+
+What do you consider as the greatest challenge confronting network operators?
+
+The topmost challenge that we face is delivering power constantly and at an effective and efficient rate. That is the biggest challenge.
+
+The business model is designed around delivering power efficiently because every equipment that we have, aside from the civil equipment like the fence, runs on some form of power.
+
+It is a big challenge in the sense that we are continuously focusing on technology, personnel, energy and significant amounts of money in order to deliver that whole experience around power.
+
+So, if I look at the value chain, it means that I also have to source for funding, which comes from debt or equity. Debt is extremely expensive in Nigeria because of the interest rates, which is about 26 per cent.
+
+You can only use it for short-term finance. The business is long term and the margins are low, so you can’t use that kind of finance. Therefore, it is crippling if you have to as it wipes out your profit.
+
+On some occasions, we had to do that and we keep sourcing for innovative ways to finance our business with long-term funds and that has a lot to do with the environment of our business as you can’t control the appetite of private equity firms; they would decide what risks they want to take and how long they would do it for.
+
+A lot of us struggle with that. I could break it into two: raising the capital required to build infrastructure is really the challenge. Once you have the capital, building and maintaining it is just operations and that is normal for everybody. The amount of capital required is not available within the country; so, you have to bring it from outside. The people need to see that Nigerians are serious about investing and they have the discipline to manage investments at that level.
+
+What percentage of the operating cost presently goes to power?
+
+Opex is 60 per cent. It is reducing, but it is unpredictable because diesel is a very big component of that opex and its price is very volatile and seasonal.
+
+In times of scarcity, it could double in cost and we still use the same quantity. So, because of the volatility, you cannot say categorically that it has reduced. It reduces one month and rises the next month. Port congestion can just make another material scarce in the market because they are all inputs that are not locally available. Even when you store, there is a cost for storage.
+
+What alternative off-grid technology solutions are you considering to power telecom towers?
+
+The most popular one is the solar hybrid solution, which is mainly aimed at reducing the run -hour of your generator. So, we use the solar panels to charge the batteries during the day and you run your generator at night after you have discharged the batteries.
+
+Basically, that is what the design is. It has been around; it is just that we are getting more efficient batteries, better solar panels and better expertise in putting together all that.
+
+The other thing is that expertise does not exist. You have people who have been servicing diesel generators for 30 years, but there are a lot of people who go out there and say they know how to install solar panels and they are quacks. When you are talking about something that you need 100 per cent reliability for, installation can be a problem.
+
+We are also looking at electromagnetic generators for certain use cases. We are also looking at wind and other solid-state material- fuel cells. As I speak now, I have about six pilots going on.
+
+There are two stages of pilot: the technology is the simplest part of it. The second aspect is really getting the company to maintain equipment on a long-term basis. It is not about just coming to sell something that it worked in America or North Africa.
+
+Do you have the organisation’s support to repair these things should they be damaged? What we run is an operation; so, even if it is diesel, there is someone who can get there in fifteen minutes and fuel the generator.
+
+Or if they steal the generator, you could bring a mobile generator. You can give me a hybrid system and a very wonderful technology, but in Nigeria, people don’t respect property, which is why we are talking about critical national infrastructure because trespassers are all over the place.
+
+People can just walk into your property and do whatever they like because the laws are not enforced. We just have the culture of being less fair about property rights here. In any capitalist system, property rights are important. You have to put this in mind, don’t step here and don’t trespass.
+
+But people trespass all the time. You can have this beautiful solar technology that works everywhere and nobody touches it.
+
+However, someone is going to tamper with it if it is sitting on the side of the road in Niger State. Somebody has to go out there and fix it. So, do they have the response time? A lot of people who are approaching us, we see that they are salespeople but not in operations so we cannot partner with them.
+
+They have good solutions but unless you really want to adopt that solution, track it, stay with that technology, watch how it changes, you can’t buy it because you don’t know if that company is going to fold up tomorrow.
+
+If you are looking at power, a typical agreement, and it is for five to 10 years. If you are going to give me a power solution and I don’t even think your company is going to be existing in the next five years, I would think twice before buying it from you.
+
+Are you saying that towers in Nigeria are totally off-grid?
+
+Well, from my experience, first and foremost, there is not enough power from the grid in the country. Not everyone builds with the grid all the time. Everybody has a back-up generator. So, all towers are designed ab initio to be completely off-grid.
+
+The power is a back-up. There are certain areas where maybe the estate has some kind of arrangement for grid power, then you can have some respite. But that you have the grid as your primary source of power? I’m yet to see that tower in Nigeria.
+
+Nigeria telecom operators are planning to invest in 5G technology. With all these challenges in place, would it be feasible in the next two years?
+
+Yes. I mean Nigeria has been off-grid since we started. We have never had power. So, people coming to Nigeria to invest are bringing their generators. What operators are doing is that they are getting low power consumption radios and antennas.
+
+These equipment are even for countries that have power, they are trying to reduce consumption because everybody is watching energy cost. In our own case, at the end of the day, power boils down to energy costs. You can use anything you want: there is solar, biogas, among others. They all come at different costs per kilowatt-hour.
+
+In Nigeria today, we use diesel as our baseline fuel. Therefore, typically, you would be looking at N80 to N90 per kilowatt-hour. The grid is about N33 naira per kilowatt-hour but it is unavailable. Now the people who are running the grid want to increase it. All that debate can keep going but 5G will come because it is here already.
+
+There are people who need to run businesses and if it is a data-centric form of business, they will find a way to power the business. Nigerians are innovative. We would find a way to power them. We are looking at all these small things already. The question would be “what is the cost of power?” If you get it from the grid and it is available, it is N33. If you are going to produce it yourself, it is N90. So, you do your business case. If it doesn’t fly, which is why a lot of talk about power goes on. Not everybody can afford power, even at N33.
+
+There is even a lower tariff for rural areas; I think N4, just for them to have power. The reason we talk about power is because the big companies can afford to go and buy the generators and all, but the 90 million people who are already operating below the poverty line cannot afford power.
+
+The fact that they cannot afford power and they are in the dark means there is no productivity, since you cannot produce anything in this age -apart from growing something in the ground- without some form of energy.
+
+What are the gaps in telecom towers? Are the towers enough?
+
+There aren’t enough towers. Britain, whose population and landmass is one-third of ours, has 60,000 towers today. We have less than 30,000 towers for this land mass. Thus, we don’t have enough towers. We need, by the estimation of the NCC, which I agree with, over 100,000 towers in the country. When I say towers, I don’t just mean towers that you see.
+
+Any structure that can support an antenna is what we are talking about. These days we are beginning to see billboards, we are seeing streetlights, rooftops and all that because with 4G data, shrinkage occurs so you need more capacity in dense urban areas.
+
+With 5G, it would be far more than that. It is going to grow exponentially. The way it works is that with 2G, inter-site distance is wide, with 3G it comes closer, 4G; much closer, with 5G, it would be similar to using Wi-Fi in your house.
+
+You notice that there is a maximum distance over which Wi-Fi works. Inter-site distance for 5G is about 50 to 100 meters. Therefore, for every hundred meters, we need towers.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

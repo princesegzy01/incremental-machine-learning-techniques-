@@ -1,0 +1,50 @@
+The power of the cloud
+Chukwuemeka Fred Agbata
+
+Today’s piece is about the cloud; not the cloud we grew up learning about in Geography. This is a different kind of cloud. Although different, it has become an extremely important part of our lives, just like the cloud we are used to.
+
+Think about it for a moment; the natural cloud in the sky holds the rain; shields us from the sun; provides beauty to planet earth and serves as one of the fastest means of transportation from one place to the other. In the same vein, the cloud I am referring to in this piece holds tons of data across the globe and it has made it possible for humans to enjoy awesome services and become more productive – the world has not been the same with the cloud becoming more ubiquitous.
+
+Techopedia.com describes the cloud as a general metaphor that is used to refer to the Internet. Initially, the Internet was seen as a distributed network and then with the invention of the World Wide Web (www), as a tangle of interlinked media. As the Internet continues to grow, in both size and range of activities, it has become known as the cloud.
+
+A much simpler definition of the cloud states that there is no such thing as cloud. It is simply your information on other people’s system.
+
+Irrespective of what definition is accepted, one thing is clear and that is the fact that the importance of cloud in today’s technologically-driven world cannot be overemphasised.
+
+This is why Nigeria, as a country, should be bothered about where her data is stored. A number of countries today have created policies that are designed to mandate organisations within their countries to store all sensitive data locally. The question that concerned Nigerians should be asking is: where are some or all of my most sensitive data stored? Are they stored in Delhi, New York, Sydney or even Accra?
+
+This is why I believe that the efforts being made by Layer3, a proudly Nigerian company, should not go unnoticed. Recently, the company brought together a number of stakeholders, which included civil servants, members of the armed forces and policy makers to discuss data sovereignty and the power of the cloud.
+
+I attended the event and like the fact that it was not designed simply to promote the company’s interest, but to draw attention of the country to the impending dangers, if we do nothing about localising our data storage.
+
+Yes, I am aware that the National Information Technology Development Agency is working on the Nigeria Data Protection Regulation, which is currently being enforced, but unfortunately, not yet backed by law. I wonder what will happen if an organisation decides to challenge the legality of the regulation.
+
+Be that as it may, the regulation provides for Nigerians to have greater control over how their data is collected, shared and used.
+
+The regulation prohibits data generated and collected within Nigeria from being passed to other countries without the permission of the Nigerian government.
+
+More far-reaching legislation will thus be needed to deal with data sovereignty issues in the country.
+
+While the government, however, works on introducing new laws, businesses being run in the country will have to consider their options and try to make sure that they are keeping their data safe from unwanted foreign interests.
+
+This explains why the company has previously launched Layer3Cloud, an Infrastructure-as-a-Service, (IaaS), solution that allows businesses/organisations of all types to remotely and virtually build, manage, store and instantly deploy servers and data in secured data centres, all without the financial outlay on hardware, maintenance or replacement, yet retaining the ability to access and administer all services as needed. Layer3Cloud runs out of ISO-certified data centres in Abuja and Lagos, ensuring maximum availability, security and disaster recovery.
+
+Now, as stressed at the beginning of this piece, when some people hear of the cloud, what comes to their minds is the cloud that we have up in the sky. This reminds me of a true-life story of a senior bank executive who I once heard quip: “If we put our servers in the cloud, how do we deal with the elements? What becomes of our lot, when it rains?” We all had a good laugh at this.
+
+But joke apart, the cloud is more or less a terminology that can simply be described as off-station or off-site. This is because cloud servers are still located in physical structures, using a series of networked servers and equipment in order to be able to cater for the large number of businesses/organisations across different geographical boundaries.
+
+Coincidentally, a few days ago, I had a chat with a passionate IT consultant, who wants to see more of the small businesses in Nigeria succeed by taking advantage of all the technology tools available today, especially cloud technologies. She said to me: “I can’t imagine how any small business today will not take advantage of the cloud. The cloud makes it cheaper and easier to manage and scale a business. Besides that, small businesses can get a whole lot of value for a fraction of what it will cost to buy and install physical equipment?”
+
+I may have shared her points, so simply; but I wish you were there with us during that conversation. I observed that she was passionate and vocal about her convictions.
+
+In conclusion, I believe that this is the time to get everyone, especially, the government to regard cloud service as one of the most effective ways to truly develop the Nigerian state and deliver outstanding services to her citizens. Countries like Kenya and Rwanda are already beating us to it; like we say in pidgin, “we must not carry last!” I believe that the Nigerian government has the wherewithal to make this happen as soon as possible.
+
+Reality is that any nation that controls data globally will likely control the world’s economy because data is the new gold. Dear Nigerians, who has access to all your data and where do you think your most private/sensitive information online is stored?
+
+CFA is the founder of CFAmedia.ng, a business and innovation platform.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

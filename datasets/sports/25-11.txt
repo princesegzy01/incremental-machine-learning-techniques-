@@ -1,0 +1,44 @@
+Football: English Premier League table
+English Premier League table after Sunday’s early match (played, won, drawn, lost, goals for, goals against, points):
+
+Liverpool 11 10 1 0 25 9 31
+
+Man City 11 8 1 2 34 10 25
+
+Leicester 11 7 2 2 27 8 23
+
+Chelsea 11 7 2 2 25 17 23
+
+Arsenal 11 4 5 2 16 15 17
+
+Sheff Utd 11 4 4 3 12 8 16
+
+Bournemouth 11 4 4 3 14 13 16
+
+Brighton 11 4 3 4 14 14 15
+
+Crystal Palace 11 4 3 4 10 14 15
+
+Man Utd 11 3 4 4 13 11 13
+
+Wolves 11 2 7 2 14 14 13
+
+West Ham 11 3 4 4 14 17 13
+
+Tottenham 10 3 3 4 16 15 12
+
+Burnley 11 3 3 5 14 18 12
+
+Newcastle 11 3 3 5 9 17 12
+
+Aston Villa 11 3 2 6 16 18 11
+
+Everton 10 3 1 6 10 16 10
+
+Southampton 11 2 2 7 10 27 8
+
+Norwich 11 2 1 8 11 26 7
+
+Watford 11 0 5 6 6 23 5
+
+(AFP)

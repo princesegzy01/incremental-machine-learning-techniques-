@@ -1,0 +1,22 @@
+eTranzact, Accounteer back Open Banking
+Nike Popoola
+
+Payment processor, eTranzact International Plc, and Accounteer, an accounting solutions provider, have said they are partnering with Open Banking Nigeria.
+
+A statement said the partnership was aimed at driving the adoption of a non-partisan standard for stakeholders in Nigeria’s financial services ecosystem towards the provision of improved, customer-focused services.
+
+The Chief Executive Officer of eTranzact, Niyi Toluwalope, expressed his excitement at the opportunity to contribute to advocacy efforts, provide technical review for Application Programming Interface specifications, and directly engage other industry stakeholders for the collective good.
+
+Toluwalope also confirmed the firm’s commitment to the implementation of its APIs and gateways in line with the open banking API standard.
+
+He stated, “As a stakeholder within the Nigerian financial and payments ecosystem, we are aware of the opportunities for growth that come from innovation and financial inclusion. We are also aware of the challenges that fintechs face when integrating with banks using the APIs, and we are excited about the efforts of the Open Technology Foundation.”
+
+The statement said that according to a recent publication by the PWC and Open Banking Nigeria, Accounteer’s Chief Executive Officer, Merijn Campsteyn, noted that the APIs had become the world’s most popular means of integrating software systems.
+
+He stated, “However, the beauty of the APIs is only appreciated when companies agree on common standards.”
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

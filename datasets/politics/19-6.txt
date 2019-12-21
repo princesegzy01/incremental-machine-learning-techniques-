@@ -1,0 +1,44 @@
+Facebook steps up security amid fresh signs of Russia meddling
+Facebook said Monday it was tightening its security for the 2020 US elections, amid signs of fresh activity from Russia attacking Democratic presidential candidates, including Joe Biden.
+
+The leading social network said it was taking down more accounts for “inauthentic” activity and stepping up scrutiny of “state controlled” media seeking to manipulate American voters.
+
+As Facebook unveiled its latest steps, an analysis of activity on the social platform released by the analytics firm Graphika showed accounts originating from Russia taking aim at US political candidates and issues.
+
+“Multiple accounts praised (Democratic hopeful) Bernie Sanders or Donald Trump,” the Graphika report said.
+
+“Accounts from both sides of the political spectrum attacked Joe Biden; some also attacked Kamala Harris and Elizabeth Warren. Almost half the accounts claimed to be based in ‘swing states,’ especially Florida.”
+
+The report said these accounts reused messages from the Internet Research Agency which targeted US audiences in the 2016 presidential election and that “Facebook’s own analysis … showed some links to the IRA.”
+
+One of the new steps announced by Facebook calls for labeling of messages coming from state-controlled media outlets, starting next month.
+
+“We will hold these pages to a higher standard of transparency because they combine the opinion-making influence of a media organization with the strategic backing of a state,” a Facebook blog post said.
+
+Facebook also said it would seek to curb the viral spread of misinformation by using a “pop-up” that will appear when people attempt to share posts on Instagram debunked by third-party fact-checkers.
+
+The moves add to a series of measures from the leading social network since 2016, when foreign entities were prominently involved in social media in the US campaign.
+
+“The bottom line here is that elections have changed significantly since 2016, and Facebook has changed too,” Facebook chief executive Mark Zuckerberg told a conference call.
+
+“We face increasingly sophisticated attacks from nation-states … but I’m confident we’re more prepared now.”
+
+– Protecting candidate accounts –
+
+Facebook said it was offering new protections for the accounts of political candidates, monitoring for hacking or hijacking. It also outlined steps to protect against “voter suppression” including any efforts to mislead people about where or when to vote.
+
+The tech giant said it removed four separate networks of accounts from Russia and Iran for “coordinated inauthentic behavior” on Facebook and Instagram.
+
+“All of these operations created networks of accounts to mislead others about who they were and what they were doing,” said Facebook cybersecurity chief Nathaniel Gleicher.
+
+Three of the groups originated in Iran and one in Russia, and they targeted users in the United States, North Africa and Latin America.
+
+The Graphika analysis said the Russian accounts appeared to sow division by posting from both sides of the political spectrum.
+
+“Accounts across the ‘progressive’ spectrum attacked President Donald Trump; accounts across the ‘conservative’ spectrum attacked Democratic congresswomen Alexandria Ocasio Cortez (‘AOC’) and lhan Omar,” the report said.
+
+Facebook’s statement said one of the Russian groups used posts with concealed identities to make comments “on both sides of political issues including topics like US elections, environmental issues, racial tensions, LGBTQ issues, political candidates, confederate ideas, conservatism and liberalism.”
+
+An Iranian account which “masqueraded as a news entity” posted on topics including race relations, US and Israeli policy on Iran and the Black Lives Matter movement.
+
+(AFP)

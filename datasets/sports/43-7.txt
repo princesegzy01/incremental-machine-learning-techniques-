@@ -1,0 +1,44 @@
+Latest EPL table after Sunday matches
+English Premier League table after Sunday’s matches (played, won, drawn, lost, goals for, goals against, points)
+
+Liverpool 10 9 1 0 23 8 28
+
+Man City 10 7 1 2 32 9 22
+
+Leicester 10 6 2 2 25 8 20
+
+Chelsea 10 6 2 2 23 16 20
+
+Arsenal 10 4 4 2 15 14 16
+
+Crystal Palace 10 4 3 3 10 12 15
+
+Man Utd 10 3 4 3 13 10 13
+
+Sheff Utd 10 3 4 3 9 8 13
+
+Bournemouth 10 3 4 3 13 13 13
+
+West Ham 10 3 4 3 12 14 13
+
+Tottenham 10 3 3 4 16 15 12
+
+Wolverhampton 10 2 6 2 13 13 12
+
+Burnley 10 3 3 4 14 15 12
+
+Brighton 10 3 3 4 12 14 12
+
+Aston Villa 10 3 2 5 15 16 11
+
+Everton 10 3 1 6 10 16 10
+
+Newcastle 10 2 3 5 6 15 9
+
+Southampton 10 2 2 6 9 25 8
+
+Norwich 10 2 1 7 11 24 7
+
+Watford 10 0 5 5 5 21 5
+
+AFP.

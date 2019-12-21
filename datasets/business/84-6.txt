@@ -1,0 +1,60 @@
+Concerns as Nigerian firms move to adopt data protection regulation
+IFE OGUNFUWA examines issues that need to be resolved to ease the compliance of businesses with the Nigeria Data Protection Regulation
+
+The National Information Technology Development Agency introduced a new regulation in January this year called the Nigeria Data Protection regulation, which aims to safeguard data privacy in the country.
+
+According to NITDA, the regulation will foster safe conduct of transactions involving personal data and to make Nigerian institutions globally competitive and relevant.
+
+The agency said it commenced the implementation of the Nigerian data protection law, which seeks to safeguard the rights of Nigerians to data privacy, on April 25, 2019.
+
+Some of the provisions of the regulation stated that personal data collected and processed must be legitimate, collected for a lawful purpose and stored for a reasonable period required for its use.
+
+The penalty for breaching the regulation in addition to any other liabilities includes, “Payment of the fine of two per cent of annual gross revenue of the preceding year or the sum of N10m, whichever is greater in the case of a data controller dealing with more than 10,000 data subjects.
+
+“In the case of a data controller dealing with less than 10,000 data subjects, payment of the fine of one per cent of the annual gross revenue of the preceding year of the sum of N2m, whichever is greater.”
+
+Speaking at a Data Protection Compliance Interactive session in Nigeria organised by Taxtech and AO2 Law in Lagos, experts expressed concerns over the capacity of the regulator to identify the source of data breach as many personal information are collected and transferred to third-parties online and offline.
+
+A Partner, Chief Executive Officer, Taxaide, Mr Bidemi Olumide, said there was a need for the capacity development of professionals that would handle data protection issues for business organisations.
+
+According to him, lawyers, tech experts and administrators are required to deliver data protection.
+
+He said, “I see a lot of creativity among DPCOs currently and from what we see in terms of active work in the space, we see that just a number have a collage of experience that is needed for a function like this. It is not being a tech firm or data administrator, we actually we need a confluence of capacities in the deployment of these services.”
+
+However, in a country where people’s personal information are being shared without consent, experts note compliance might be difficult for many organisations, especially government agencies.
+
+Speaking on the sidelines of the event, the Chief Technology Officer and Co-founder, FarmCrowdy, Abiodun Christopher, expressed concerns over the ability of government to conform with the provisions of the data protection regulation as many agencies and parastatals were known to flout the law.
+
+“If implemented and monitored properly, the regulation is what we should have. I say so because even the government flout the laws and court judgement. People don’t have trust in the government,” he said.
+
+“What we do in Farmcrowdy is that we use data but not for analytics but because we need to know the person giving us the money and we have to pay them back. We have the data of farmers because we need to know that these farmers exist.”
+
+Christopher also disagreed with the directive that organisations should domicile their data in the country, saying it was more expensive.
+
+“Making people domicile their data in Nigeria is really expensive because power generation is not regular and expensive. It is very expensive to store data here. It is very easy to keep my data with Microsoft and other foreign companies,” he added.
+
+Highlighting the roles of the licensed data protection service providers, NITDA, Desk Officer, NDPR at NITDA, Olufemi Daniel, said they were required to develop and document a data protection strategy and policy, which shows the overarching direction for data protection for clients.
+
+According to him, the DPCOs are to review existing contracts in line with the regulation, design data request forms and take inventory of data processing activities, among others.
+
+Addressing concerns of stakeholders on monitoring capacity of Daniel, said, “We are mindful of increasing compliance burden and we do not want to create unnecessary upheaval in the market. There are conversations with experts to help us with compliance and monitoring but we are happy that there are whistle blowers coming forward to do it for free, to report data privacy breach. We are also making provisions for compliance organisations we can engage.”
+
+“The issue is that these organisations are in it for business and if they have a client who is in breach, they will not tell you about their client but about the client of their competitor who they think is in breach. We need to be careful so that we don’t make decisions that will cause us a lot of problems in the industry.”
+
+The Managing Partner, AO2 Law, Mr Chinedu Anaje, addressed the need for organisations to seek redress if they were wrongfully fined by the regulators.
+
+“The NITDA gives organisations an opportunity to redress in a court of law, there are numerous cases of that nature in Europe and North America. We expect there will be an increase in data breach cases in the future,” he said.
+
+Panel discussions were focused on key regulations such as the application of data, data processing principles, consent, privacy policy, data security, third-party contracts, data subject rights, data transfer, transparency, penalties and more.
+
+Daniel identified organisations at high risk of data breach as banks, telcos, Central Bank of Nigeria, and insurance companies.
+
+Others are fintechs, prominent hospitals, National Identity Management Council and stockbrokers, among others.
+
+According to him, low-risk businesses are Small and Medium Enterprises and payroll firms.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

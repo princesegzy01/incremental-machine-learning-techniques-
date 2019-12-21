@@ -1,0 +1,32 @@
+Payment system: Obtain risk-based rating, CBN orders banks
+Nike Popoola
+
+To qualify as an indirect participant under the payments system in the banking sector, an institution must have a satisfactory risk-based rating from the Central Bank of Nigeria.
+
+The CBN gave this directive in a circular to all Deposit Money Banks and other financial institutions titled “Regulation for the operation of indirect participants in the payments system,” on Wednesday, which would take effect from November 11, 2019.
+
+It added that an interested institution must also secure a letter of recommendation from its direct participating bank, signed by the chief risk officer and an executive director of the direct participating bank.
+
+The circular said such institution must also comply with the Nigeria Uniform Bank Account Number standards.
+
+The CBN stated that only direct participating banks were permitted to settle payment obligations of indirect participants.
+
+“An indirect participant must settle all its payments obligations through only one direct participating bank per payment scheme at any given time.
+
+The relationship between a direct participating bank and an indirect participant must be governed by a settlement agreement,” it added.
+
+It indicated that where the account of an indirect participant with a direct participating bank was not adequately funded, the direct participating bank might decline further settlement services to the indirect participant and inform the payment processor accordingly.
+
+Part of the circular read, “Except as otherwise agreed, a direct participating bank or an indirect participant shall give at least 30 days’ notice to the other party before terminating the settlement agreement for any other reason apart from the circumstances in 3.4.
+
+“The terminating party shall notify the Payments Service Provider of its intention to terminate.”
+
+The CBN stated that a direct participating bank and an indirect participating bank must enter into a bilateral agreement to guide the relationship.
+
+It added that where an indirect participant connected directly to a PSP for transaction processing, the indirect participant, the direct participating bank, and the PSP must enter into a tripartite agreement.
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

@@ -1,0 +1,44 @@
+Football: Italian Serie A table
+Italian Serie A table after Sunday’s early match (played, won, drawn, lost, goals for, goals against, points):
+
+Juventus 9 7 2 0 16 8 23
+
+Inter Milan 9 7 1 1 20 9 22
+
+Atalanta 8 5 2 1 21 13 17
+
+Napoli 8 5 1 2 17 10 16
+
+Cagliari 8 4 2 2 12 7 14
+
+Roma 8 3 4 1 12 10 13
+
+Parma 9 4 1 4 15 13 13
+
+Lazio 8 3 3 2 16 9 12
+
+Fiorentina 8 3 3 2 12 10 12
+
+Bologna 9 3 3 3 12 12 12
+
+Torino 8 3 1 4 10 11 10
+
+Udinese 8 3 1 4 4 6 10
+
+AC Milan 8 3 1 4 8 11 10
+
+Sassuolo 8 3 0 5 15 16 9
+
+Verona 9 2 3 4 6 8 9
+
+Lecce 9 2 2 5 10 18 8
+
+Genoa 9 2 2 5 12 21 8
+
+Brescia 8 2 1 5 8 12 7
+
+SPAL 8 2 0 6 6 15 6
+
+Sampdoria 9 1 1 7 5 18 4
+
+(AFP)

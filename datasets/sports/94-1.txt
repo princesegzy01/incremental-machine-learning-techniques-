@@ -1,0 +1,44 @@
+Latest EPL table (Wk 8)
+English Premier League table after Sunday’s matches (played, won, drawn, lost, goals for, goals against, points):
+
+Liverpool 8 8 0 0 20 6 24
+
+Manchester City 8 5 1 2 27 9 16
+
+Arsenal 8 4 3 1 13 11 15
+
+Leicester 8 4 2 2 14 7 14
+
+Chelsea 8 4 2 2 18 14 14
+
+Crystal Palace 8 4 2 2 8 8 14
+
+Burnley 8 3 3 2 11 9 12
+
+West Ham 8 3 3 2 11 11 12
+
+Tottenham 8 3 2 3 14 12 11
+
+Bournemouth 8 3 2 3 13 13 11
+
+Wolves 8 2 4 2 11 11 10
+
+Manchester United 8 2 3 3 9 8 9
+
+Sheffield United 8 2 3 3 7 7 9
+
+Brighton 8 2 3 3 8 10 9
+
+Aston Villa 8 2 2 4 13 12 8
+
+Newcastle 8 2 2 4 5 13 8
+
+Southampton 8 2 1 5 8 15 7
+
+Everton 8 2 1 5 6 13 7
+
+Norwich 8 2 0 6 10 21 6
+
+Watford 8 0 3 5 4 20 3
+
+AFP.

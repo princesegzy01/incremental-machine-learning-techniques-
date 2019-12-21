@@ -1,0 +1,26 @@
+Google acquires Fitbit for $2.1bn
+Google will pay $7.35 per share for Fitbit, a wearables company in an all-cash deal that values Fitbit at $2.1bn.
+
+Relatively speaking, this is a great landing for Fitbit, as reported by TechCrunch.
+
+The company’s price has fluctuated significantly as it worked to adjust to a changing market and fumbled on some of its more recent launches.
+
+In summer 2015, it hit an all-time high of $51.90, but this August it went as low as $2.81 after more than two years hovering below $7 — a pattern that changed dramatically after the first reports of Google’s interest began to surface in September.
+
+The match could ultimately prove beneficial for both parties.
+
+Google has struggled to make much of a dent in the wearables category. But wearables is still a young market, and at a time when Apple has been seeing its strongest category growth in the division that houses its own wearables effort, the Apple Watch, Google has never bowed out.
+
+In January of this year, the Android giant purchased a large chunk of IP from watchmaker Fossil for $40m — a move that in retrospect looks like a setting of the stage for what was to come today.
+
+While Google has also invested in a lot of its own in-house development, buying Fitbit represents a step-change and a bolt-on of years of effort focused specifically on the wearables category.
+
+“Over the years, Google has made progress with partners in this space with Wear OS and Google Fit, but we see an opportunity to invest even more in Wear OS as well as introduce Made by Google wearable devices into the market,” Google device SVP Rick Osterloh wrote in his blog post announcing the deal. “Fitbit has been a true pioneer in the industry and has created engaging products, experiences and a vibrant community of users. By working closely with Fitbit’s team of experts, and bringing together the best AI, software and hardware, we can help spur innovation in wearables and build products to benefit even more people around the world.”
+
+Sensing inevitable concern around Google’s upcoming access to a bevy of health data, Osterloh looked to temper criticism with reassurance that it will not be using the information for advertising. “We will never sell personal information to anyone,” the executive wrote. “Fitbit health and wellness data will not be used for Google ads. And we will give Fitbit users the choice to review, move, or delete their data.”
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]

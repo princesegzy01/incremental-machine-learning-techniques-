@@ -1,0 +1,38 @@
+Online transactions hit 2.8 million on Independence Day
+Ife Ogunfuwa
+
+Bank customers carried out about 2.8 million transactions on Nigeria Interbank Settlement System Instant Pay platform recorded on Independence Day commemoration, live updates provided by the NIBSS have shown.
+
+As Nigerians visited entertainment spots in the country to celebrate the day, online payment of bills via NIP hit exactly 2,831,616 transactions as of 6.18pm on Tuesday.
+
+Analysis of the live electronic payment data indicated that a low failure rate of 0.83 per cent was recorded on the platform, with customers experiencing a total of 23,514 failed transactions.
+
+The data showed that funds transfer formed the bulk of the volume of the NIP transactions.
+
+NIP had been adjudged the most preferred platform for electronic payment having grossed more transactions in monetary terms than PoS and e-Bills Payment over the years.
+
+The statistics also showed that Point of Sale transactions carried out by merchants and retailers in the country were 1.24 million as of 6.18 pm on the same day.
+
+The data indicated that transactions on PoS had a high failure rate of 15.61 per cent as the volume of failed transactions on the terminals stood at 193,662 as of the same time.
+
+NIP recorded the highest volume of transactions – 23,211 – at 12.40pm, while electronic payment on PoS peaked at 5.35pm, recording a volume of 14,171.
+
+Data on the e-payment platform efficiency showed that unavailable beneficiary bank and exceeded bank limit contributed the most to failed NIP transactions on Tuesday.
+
+Also, the NIBSS data indicated that the issuer bank error and error made by bank customers highly contributed to the failed PoS transactions.
+
+Stakeholders in the industry attributed the high rate of failed transactions on PoS to poor network and payment systems that use multiple SIM cards, WiFi, or Local Area Network.
+
+The President, Association of Mobile Money Agents in Nigeria, Mr Victor Olojo, explained that though some of the failed transactions stemmed from network disruptions, technology glitches contributed significantly to the declined transactions.
+
+Olojo observed that declined transactions were high during peak transaction periods and festive seasons.
+
+He said, “The apps being deployed by the operators and web solutions are unable to carry the large volume of transactions that agents are channelling into the system.
+
+“We realise that during high transaction traffic, these apps keep processing. Operators need to ensure that competent web solutions and apps are good.”
+
+Copyright PUNCH.
+
+All rights reserved. This material, and other digital content on this website, may not be reproduced, published, broadcast, rewritten or redistributed in whole or in part without prior express written permission from PUNCH.
+
+Contact: [email protected]
