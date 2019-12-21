@@ -48,3 +48,7 @@ Online learnning is a medthod of machine learning where data becomes available i
 
 
 ## Credit
+
+For more information, feel free to contact me via email at `princesegzy01@gmail.com`.
+
+Thank you.
